@@ -1,4 +1,7 @@
 package com.example.qlcalories;
 
-public class UserActivity extends Acom{
+import android.support.v7.app.AppCompatActivity;
+
+public class UserActivity extends AppCompatActivity {
+
 }
